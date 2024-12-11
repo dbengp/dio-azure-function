@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "dio_azure_function": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7213",
+      "launchBrowser": false
+    }
+  }
+}
